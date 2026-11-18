@@ -1,0 +1,1 @@
+Projeto relacionado a uma loja virtual de produtos eletrônicos.
